@@ -1,0 +1,94 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/WPTest
+Data file = C:\wamp64\www\WPTest/wp-content/uploads/2020/02/travelbiz.xml
+Widget file = C:\wamp64\www\WPTest/wp-content/uploads/2020/02/travelbiz.wie
+Customizer file = C:\wamp64\www\WPTest/wp-content/uploads/2020/02/travelbiz.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Categories - Categories - Imported
+Gallery - Gallery - Imported
+Recent Posts - Recent Posts - Imported
+Filter Products by Price - Filter by price - Imported
+
+Header Sidebar : 
+
+Travelbiz Author - About the Author - Imported
+a2a_follow_widget - Follow us - Site does not support widget
+
+Footer1 : 
+
+Text - About Travelbiz - Imported
+
+Footer2 : 
+
+Categories - Categories - Imported
+
+Footer3 : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Footer4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Categories - Categories - Imported
+Gallery - Gallery - Imported
+Recent Posts - Recent Posts - Imported
+Filter Products by Price - Filter by price - Imported
+
+Header Sidebar : 
+
+Travelbiz Author - About the Author - Imported
+a2a_follow_widget - Follow us - Site does not support widget
+
+Footer1 : 
+
+Text - About Travelbiz - Imported
+
+Footer2 : 
+
+Categories - Categories - Imported
+
+Footer3 : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Footer4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
